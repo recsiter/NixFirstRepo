@@ -1,3 +1,13 @@
 myFirstChange
 changes for first_branch
-
+git init
+git add.
+git commit -m "First commit"
+git remote add origin ..link..
+git push -u origin main
+git checkout -b first_branch
+git push origin first_branch
+git merge first_branch
+git add .
+git commit -m "commit"
+git origin -d first_branch
